@@ -1,1 +1,2 @@
 Trying 3rd type merge
+to see how it works
